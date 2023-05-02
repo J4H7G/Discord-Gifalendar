@@ -1,0 +1,2 @@
+git+https://github.com/Rapptz/discord.py@01bb7ecb7920e644a34ce64cb06a339dfe1617c9
+asyncio
